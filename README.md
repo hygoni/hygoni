@@ -1,7 +1,7 @@
 ### Introduction
 
-born in August 2000, Korea.
-I am graduate student at Chungnam National University.
+born in August 2000, Korea.  
+I am graduate student at Chungnam National University.  
 I love Linux and FOSS.
 
 Interested topics:
@@ -11,9 +11,9 @@ Interested topics:
   - Algorithm
 
 #### My contributions to linux kernel
-
-I'm currently kinda newbie, finding a way to contribute...
-https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/log/?qt=author&q=42.hyeyoo@gmail.com
+[See on linux-next](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/log/?qt=author&q=42.hyeyoo@gmail.com
+)
+I'm kinda newbie now, finding a way to contribute...
 
 #### solved.ac profile
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hygoni)](https://solved.ac/hygoni)
