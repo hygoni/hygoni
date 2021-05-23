@@ -1,7 +1,7 @@
 ### Introduction
 
 born in August 2000, Korea.  
-I am graduate student at Chungnam National University.  
+I am an undergraduate student at Chungnam National University.  
 I love Linux and FOSS.
 
 Interested topics:
