@@ -15,6 +15,10 @@ Interested topics:
 )
 I'm kinda newbie now, finding a way to contribute...
 
+#### 42 Seoul badge
+[![hyeyoo's 42 stats](https://badge42.herokuapp.com/api/stats/hyeyoo)](https://github.com/JaeSeoKim/badge42)
+
+
 #### solved.ac profile
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hygoni)](https://solved.ac/hygoni)
 
