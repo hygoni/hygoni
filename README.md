@@ -16,7 +16,7 @@ Interested topics:
 I'm kinda newbie now, finding a way to contribute...
 
 #### solved.ac profile
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hygoni)](https://solved.ac/hygoni)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hygoni)](https://solved.ac/hygoni)
 
 #### Contact
 
