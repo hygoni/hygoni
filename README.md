@@ -1,6 +1,6 @@
 ### Introduction
 
-![profile2](https://user-images.githubusercontent.com/50040414/120915952-a5691280-c6e1-11eb-9609-75feacd0cbe5.jpg)
+<img style="float: left;" src="https://user-images.githubusercontent.com/50040414/120915952-a5691280-c6e1-11eb-9609-75feacd0cbe5.jpg" alt="profile image" width="300"/>
 
 born in August 2000, Korea. System Programmer
 I am an undergraduate student at Chungnam National University.  
