@@ -1,6 +1,8 @@
 ### Introduction
 
-born in August 2000, Korea.  
+![profile2](https://user-images.githubusercontent.com/50040414/120915952-a5691280-c6e1-11eb-9609-75feacd0cbe5.jpg)
+
+born in August 2000, Korea. System Programmer
 I am an undergraduate student at Chungnam National University.  
 I love Linux and FOSS.
 
