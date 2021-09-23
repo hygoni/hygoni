@@ -16,6 +16,7 @@ Interested topics:
 [See on linux-next](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/log/?qt=author&q=42.hyeyoo@gmail.com
 )
 I'm kinda newbie now, finding a way to contribute...
+Working on slab allocator now.
 
 #### 42 Seoul badge
 [![hyeyoo's 42 stats](https://badge42.herokuapp.com/api/stats/hyeyoo)](https://github.com/JaeSeoKim/badge42)
