@@ -6,7 +6,7 @@ born in August 2000, Korea. System Programmer
 I am an undergraduate student at Chungnam National University.  
 I love Linux and FOSS.
 
-Interested topics:
+Topics interested in:
   - BPF/Perf (Workload Analysis)
   - Linux Kernel (I love it)
       - SL[AUO]B allocators
