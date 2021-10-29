@@ -9,6 +9,7 @@ I love Linux and FOSS.
 Interested topics:
   - BPF/Perf (Workload Analysis)
   - Linux Kernel (I love it)
+      - SL[AUO]B allocators
   - Operating System
   - Algorithm
 
