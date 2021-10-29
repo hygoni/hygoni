@@ -7,14 +7,14 @@ I am an undergraduate student at Chungnam National University.
 I love Linux and FOSS.
 
 Interested topics:
+  - BPF/Perf (Workload Analysis)
   - Linux Kernel (I love it)
-    - Device Driver
   - Operating System
   - Algorithm
 
 #### My contributions to linux kernel
-[See on linux-next](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/log/?qt=author&q=42.hyeyoo@gmail.com
-)
+[See on linux-next](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/log/?qt=author&q=42.hyeyoo@gmail.com)
+
 I'm kinda newbie now, finding a way to contribute...  
 Working on slab allocator now.
 
