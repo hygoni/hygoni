@@ -9,7 +9,7 @@ I love Linux and FOSS.
 Currently I'm working for Korean Airforce (~ til 2023.03.13)  
 And plan to graduate school in 2025.02  
 
-[My Blog](https://hyeyoo.com)
+[My Blog](https://hyeyoo.com)  
 Topics that I'm interested in:
   - Linux
     - BPF/Perf (System Performance Analysis)
