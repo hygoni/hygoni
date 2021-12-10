@@ -20,7 +20,7 @@ Topics that I'm interested in:
   - Algorithm
 
 #### My contributions to linux kernel
-[See on linux-next](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/log/?qt=author&q=42.hyeyoo@gmail.com)
+[See on linux-next](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/log/?qt=grep&q=42.hyeyoo%40gmail.com)
 
 Not much of contribution yet. finding a way to contribute...  
 Working on slab allocator now.
