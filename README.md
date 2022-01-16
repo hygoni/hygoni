@@ -1,4 +1,4 @@
-### Introduction
+## Introduction
 
 <img style="float: left;" src="https://user-images.githubusercontent.com/50040414/120915952-a5691280-c6e1-11eb-9609-75feacd0cbe5.jpg" alt="profile image" width="300"/>
 
@@ -9,33 +9,45 @@ I love Linux and FOSS.
 Currently I'm working for Korean Airforce (~ til 2023.03.13)  
 And plan to graduate school in 2025.02  
 
-[My Blog](https://hyeyoo.com)  
-
 Topics that I'm interested in:  
   - Linux
     - BPF/Perf (System Performance Analysis)
+    - Memory Management Subsystem
     - SL[AUO]B allocators
-  - Operating System
   - Computer Architecture
   - Algorithm
 
-#### My contributions to linux kernel
+## Mottos
+- Read a lot, think a lot
+- Learn from others
+- Start small
+- Be good to others and myself
+
+## Project started recently
+I started two projects recently. Both are not pratical but educational.  
+
+[Designing microprocessor using Verilog](https://github.com/hygoni/mips-microprocessor-design)  
+[Writing book about Linux Memory Management Subsystem](https://github.com/hygoni/inside-linux-mm)  
+
+## My contributions to linux kernel
 [See on linux-next](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/log/?qt=grep&q=42.hyeyoo%40gmail.com)
 
-Not much of contribution yet. finding a way to contribute...  
-Working on slab allocator now.
+I like working with the community. I'm not yet fully skilled to actively make changes to it.  
+I'm contributing to linux by creating some of trivial patches and review/testing other's patches.  
 
-#### 42 Seoul badge
+## Blog
+[My Korean Blog](https://hyeyoo.com)  
+
+## 42 Seoul badge
 [![hyeyoo's 42 stats](https://badge42.herokuapp.com/api/stats/hyeyoo)](https://github.com/JaeSeoKim/badge42)
 
-
-#### solved.ac profile
+## solved.ac profile
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hygoni)](https://solved.ac/hygoni)
 
-#### Contact
+## Contact
 
 My emails are:
-  - 42.hyeyoo@gmail.com
   - 9hrack@naver.com
+  - 42.hyeyoo@gmail.com
 
 feel free to email me.
