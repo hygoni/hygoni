@@ -24,9 +24,6 @@ Topics that I'm interested in:
 - Be good to others and myself
 
 ## Project started recently
-I started two projects recently. Both are not pratical but educational.  
-
-[Designing microprocessor using Verilog](https://github.com/hygoni/mips-microprocessor-design)  
 [Writing book about Linux Memory Management Subsystem](https://github.com/hygoni/inside-linux-mm)  
 
 ## My contributions to linux kernel
