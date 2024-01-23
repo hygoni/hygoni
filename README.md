@@ -23,9 +23,6 @@ Topics that I'm interested in:
 - Start small
 - Be good to others and myself
 
-## Project started recently
-[Writing book about Linux Memory Management Subsystem](https://github.com/hygoni/inside-linux-mm)  
-
 ## My contributions to linux kernel
 [See on linux-next](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/log/?qt=grep&q=42.hyeyoo%40gmail.com)
 
