@@ -2,12 +2,14 @@
 
 <img style="float: left;" src="https://user-images.githubusercontent.com/50040414/120915952-a5691280-c6e1-11eb-9609-75feacd0cbe5.jpg" alt="profile image" width="300"/>
 
-born in August 2000, Korea.  
-I am an undergraduate student at Chungnam National University.  
+Born in August 2000, Korea.  
 I love Linux and FOSS.  
 
-Currently I'm working for Korean Airforce (~ til 2023.03.13)  
-And plan to graduate school in 2025.02  
+CurrentlyI am an undergraduate student at Chungnam National University, graduating in Feb. 2025.
+
+A few internships I've done:
+- Security SW Engineering Intern @ NVIDIA (June 2024 ~ )
+- SW Engineering Intern @ Panmnesia (Sep. 2023 ~ Dec. 2023)
 
 Topics that I'm interested in:  
   - Linux
@@ -15,6 +17,7 @@ Topics that I'm interested in:
     - Memory Management Subsystem
     - SL[AUO]B allocators
   - Computer Architecture
+  - Virtualization
   - Algorithm
 
 ## Mottos
