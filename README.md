@@ -8,7 +8,8 @@ I love Linux and FOSS.
 CurrentlyI am an undergraduate student at Chungnam National University, graduating in Feb. 2025.
 
 A few internships I've done:
-- Security SW Engineering Intern @ NVIDIA (June 2024 ~ )
+- Software Engineering Intern @ SK Hynix (Dec. 2024 ~ Present)
+- Security SW Engineering Intern @ NVIDIA (Jun. 2024 ~ Nov. 2024)
 - SW Engineering Intern @ Panmnesia (Sep. 2023 ~ Dec. 2023)
 
 Topics that I'm interested in:  
