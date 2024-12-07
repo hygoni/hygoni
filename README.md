@@ -5,12 +5,20 @@
 Born in August 2000, Korea.  
 I love Linux and FOSS.  
 
-CurrentlyI am an undergraduate student at Chungnam National University, graduating in Feb. 2025.
-
+Currently I am:
+- An official reviewer @ the Linux kernel slab subsystem
+- Software Engineering Intern @ SK Hynix
+- an undergraduate student at Chungnam National University, graduating in Feb. 2025.
+  
 A few internships I've done:
 - Software Engineering Intern @ SK Hynix (Dec. 2024 ~ Present)
+  - Working on software solutions for CXL-based heterogeneous memory systems.
 - Security SW Engineering Intern @ NVIDIA (Jun. 2024 ~ Nov. 2024)
-- SW Engineering Intern @ Panmnesia (Sep. 2023 ~ Dec. 2023)
+  - Developed and ported OP-TEE to new NVIDIA products.
+  - Investigated issues with Rust integration on existing C++ projects for Secure Element.
+- Software Engineering Intern @ Panmnesia (Sep. 2023 ~ Dec. 2023)
+  - Analyzed CXL 2.0 device emulation.
+  - [upstreamed several fixes to QEMU CXL emulation.](https://gitlab.com/qemu-project/qemu/-/commits/master?search=Hyeonggon+Yoo)
 
 Topics that I'm interested in:  
   - Linux
