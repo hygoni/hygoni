@@ -14,7 +14,7 @@ A few internships I've done:
 - Software Engineering Intern @ SK Hynix (Dec. 2024 ~ Present)
   - Working on software solutions for CXL-based heterogeneous memory systems.
 - Security SW Engineering Intern @ NVIDIA (Jun. 2024 ~ Nov. 2024)
-  - Developed and ported OP-TEE to new NVIDIA products.
+  - Worked on enabling OP-TEE on new NVIDIA products.
   - Investigated issues with Rust integration on existing C++ projects for Secure Element.
 - Software Engineering Intern @ Panmnesia (Sep. 2023 ~ Dec. 2023)
   - Analyzed CXL 2.0 device emulation.
