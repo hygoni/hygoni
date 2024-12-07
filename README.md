@@ -38,8 +38,8 @@ Topics that I'm interested in:
 ## My contributions to linux kernel
 [See on linux-next](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/log/?qt=grep&q=42.hyeyoo%40gmail.com)
 
-I like working with the community. I'm not yet fully skilled to actively make changes to it.  
-I'm contributing to linux by creating some of trivial patches and review/testing other's patches.  
+My primary role is to review and test slab patches.  
+Sometimes I also develop new features based on ideas I come up with while reviewing code or attending to conf sessions.
 
 ## Blog
 [My Korean Blog](https://hyeyoo.com)  
