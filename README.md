@@ -8,7 +8,7 @@ I love Linux and FOSS.
 Currently I am:
 - An official reviewer @ the Linux kernel slab subsystem
 - Software Engineering Intern @ SK Hynix
-- an undergraduate student at Chungnam National University, graduating in Feb. 2025.
+- a senior at Chungnam National University, graduating in Feb. 2025.
   
 A few internships I've done:
 - Software Engineering Intern @ SK Hynix (Dec. 2024 ~ Present)
