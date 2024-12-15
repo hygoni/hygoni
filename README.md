@@ -8,7 +8,7 @@ I love Linux and FOSS.
 Currently I am:
 - An official reviewer @ the Linux kernel slab subsystem
 - Software Engineering Intern @ SK Hynix
-- a senior at Chungnam National University, graduating in Feb. 2025.
+- A senior at Chungnam National University, graduating in Feb. 2025.
   
 A few internships I've done:
 - Software Engineering Intern @ SK Hynix (Dec. 2024 ~ Present)
@@ -24,7 +24,7 @@ Topics that I'm interested in:
   - Linux
     - BPF/Perf (System Performance Analysis)
     - Memory Management Subsystem
-    - SL[AUO]B allocators
+    - Linux's Slab allocator (aka. SLUB)
   - Computer Architecture
   - Virtualization
   - Algorithm
