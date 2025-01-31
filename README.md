@@ -7,11 +7,10 @@ I love Linux and FOSS.
 
 Currently I am:
 - An official reviewer @ the Linux kernel slab subsystem
-- Software Engineering Intern @ SK Hynix
 - A senior at Chungnam National University, graduating in Feb. 2025.
   
 A few internships I've done:
-- Software Engineering Intern @ SK Hynix (Dec. 2024 ~ Present)
+- Software Engineering Intern @ SK Hynix (Dec. 2024 ~ Jan. 2025)
   - Working on software solutions for CXL-based heterogeneous memory systems.
 - Security SW Engineering Intern @ NVIDIA (Jun. 2024 ~ Nov. 2024)
   - Worked on enabling OP-TEE on new NVIDIA products.
