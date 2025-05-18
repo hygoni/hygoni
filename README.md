@@ -6,9 +6,11 @@ Born in August 2000, Korea.
 I love Linux and FOSS.  
 
 Currently I am:
+- A Linux Kernel Developer (MM) @ Oracle
 - An official reviewer @ the Linux kernel slab subsystem
-- A senior at Chungnam National University, graduating in Feb. 2025.
-  
+
+Recently graduated from Chungnam National University (Feb. 2025)
+
 A few internships I've done:
 - Software Engineering Intern @ SK Hynix (Dec. 2024 ~ Jan. 2025)
   - Working on software solutions for CXL-based heterogeneous memory systems.
