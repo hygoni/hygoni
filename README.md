@@ -12,12 +12,12 @@ Currently I am:
 Recently graduated from Chungnam National University (Feb. 2025)
 
 A few internships I've done:
-- Software Engineering Intern @ SK Hynix (Dec. 2024 ~ Jan. 2025)
-  - Working on software solutions for CXL-based heterogeneous memory systems.
-- Security SW Engineering Intern @ NVIDIA (Jun. 2024 ~ Nov. 2024)
+- Software Engineering Intern @ **SK Hynix** (Dec. 2024 ~ Jan. 2025)
+  - Worked on software solutions for CXL-based heterogeneous memory systems.
+- Security SW Engineering Intern @ **NVIDIA** (Jun. 2024 ~ Nov. 2024)
   - Worked on enabling OP-TEE on new NVIDIA products.
   - Investigated issues with Rust integration on existing C++ projects for Secure Element.
-- Software Engineering Intern @ Panmnesia (Sep. 2023 ~ Dec. 2023)
+- Software Engineering Intern @ **Panmnesia** (Sep. 2023 ~ Dec. 2023)
   - Analyzed CXL 2.0 device emulation.
   - [upstreamed several fixes to QEMU CXL emulation.](https://gitlab.com/qemu-project/qemu/-/commits/master?search=Hyeonggon+Yoo)
 
