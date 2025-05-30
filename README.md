@@ -7,7 +7,7 @@ I love Linux and FOSS.
 
 Currently I am:
 - A Linux Kernel Developer (MM) @ Oracle
-- An official reviewer @ the Linux kernel slab subsystem
+- An official reviewer @ the Linux kernel slab & reverse mapping subsystem
 
 Recently graduated from Chungnam National University (Feb. 2025)
 
