@@ -14,7 +14,7 @@ Recently graduated from Chungnam National University (Feb. 2025)
 [As Harry Yoo](https://lwn.net/ksdb/developers/show?dev=36768)  
 [As Hyeonggon Yoo (before joining Oracle)](https://lwn.net/ksdb/developers/show?dev=2684)
 
-As you can see, I spend most of my time reviewing patches and sometimes work on cool projects.
+As you can see, I spend most of my time reviewing patches but I'm also working on cool projects!
 
 ## A few internships I've done:
 - Software Engineering Intern @ **SK Hynix** (Dec. 2024 ~ Jan. 2025)
