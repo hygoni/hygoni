@@ -1,13 +1,11 @@
 ## Introduction
 
-<img style="float: left;" src="https://user-images.githubusercontent.com/50040414/120915952-a5691280-c6e1-11eb-9609-75feacd0cbe5.jpg" alt="profile image" width="300"/>
-
 Born in August 2000, Korea.  
 I love Linux and FOSS.  
 
 Currently I am:
 - A Linux Kernel Developer (MM) @ Oracle
-- An Official Reviewer for Linux Kernel Slab & Reverse Mapping Subsystem
+- An Official Reviewer for Linux Kernel Slab & Reverse Mapping Subsystems
 
 Recently graduated from Chungnam National University (Feb. 2025)
 
