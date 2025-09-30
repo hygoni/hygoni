@@ -9,7 +9,14 @@ Currently I am:
 
 Recently graduated from Chungnam National University (Feb. 2025)
 
-A few internships I've done:
+## My contributions to linux kernel
+
+[As Harry Yoo](https://lwn.net/ksdb/developers/show?dev=36768)
+[As Hyeonggon Yoo (before joining Oracle)](https://lwn.net/ksdb/developers/show?dev=2684)
+
+As you can see, I spend most of my time reviewing patches and sometimes work on cool projects.
+
+## A few internships I've done:
 - Software Engineering Intern @ **SK Hynix** (Dec. 2024 ~ Jan. 2025)
   - Worked on software solutions for CXL-based heterogeneous memory systems.
 - Security SW Engineering Intern @ **NVIDIA** (Jun. 2024 ~ Nov. 2024)
@@ -19,7 +26,7 @@ A few internships I've done:
   - Analyzed CXL 2.0 device emulation.
   - [upstreamed several fixes to QEMU CXL emulation.](https://gitlab.com/qemu-project/qemu/-/commits/master?search=Hyeonggon+Yoo)
 
-Topics that I'm interested in:  
+## Topics that I'm interested in:  
   - Linux
     - BPF/Perf (System Performance Analysis)
     - Memory Management Subsystem
@@ -33,12 +40,6 @@ Topics that I'm interested in:
 - Learn from others
 - Start small
 - Be good to others and myself
-
-## My contributions to linux kernel
-[See on linux-next](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/log/?qt=grep&q=42.hyeyoo%40gmail.com)
-
-My primary role is to review and test slab patches.  
-Sometimes I also develop new features based on ideas I come up with while reviewing code or attending to conf sessions.
 
 ## Blog
 [My Korean Blog](https://hyeyoo.com)  
