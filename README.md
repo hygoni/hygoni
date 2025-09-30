@@ -1,22 +1,23 @@
 ## Introduction
 
 Born in August 2000, Korea.  
-I love Linux and FOSS.  
+I love the Linux kernel and FOSS.  
+
+Recently graduated from Chungnam National University (Feb. 2025).
 
 Currently I am:
-- A Linux Kernel Developer (MM) @ Oracle
+- A Linux Kernel Developer (MM) @ **Oracle**
 - An Official Reviewer for Linux Kernel Slab & Reverse Mapping Subsystems
 
-Recently graduated from Chungnam National University (Feb. 2025)
-
-## My contributions to linux kernel
+## My contributions to the Linux kernel
 
 [As Harry Yoo](https://lwn.net/ksdb/developers/show?dev=36768)  
 [As Hyeonggon Yoo (before joining Oracle)](https://lwn.net/ksdb/developers/show?dev=2684)
 
 As you can see, I spend most of my time reviewing patches but I'm also working on cool projects!
 
-## A few internships I've done:
+## A few internships I've done before graduating university
+
 - Software Engineering Intern @ **SK Hynix** (Dec. 2024 ~ Jan. 2025)
   - Worked on software solutions for CXL-based heterogeneous memory systems.
 - Security SW Engineering Intern @ **NVIDIA** (Jun. 2024 ~ Nov. 2024)
@@ -42,7 +43,8 @@ As you can see, I spend most of my time reviewing patches but I'm also working o
 - Be good to others and myself
 
 ## Blog
-[My Korean Blog](https://hyeyoo.com)  
+[Korean Blog](https://hyeyoo.com)  
+[English Blog](https://vmscan.org)
 
 ## solved.ac profile
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hygoni)](https://solved.ac/hygoni)
@@ -53,4 +55,4 @@ My emails are:
   - 9hrack@naver.com
   - 42.hyeyoo@gmail.com
 
-feel free to email me.
+Feel free to email me.
